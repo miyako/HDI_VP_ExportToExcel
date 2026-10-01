@@ -1,7 +1,7 @@
-C_TEXT:C284($d)
+var $d : Text
 
 // select an excel document
-$d:=Select document:C905(Form:C1466.fileFolder; ".xlsx"; "Select Excel file"; Use sheet window:K24:11)
+$d:=Select document:C905(Form:C1466.fileFolder; ".xlsx"; Localized string("PromptSelectExcelFile"); Use sheet window:K24:11)
 
 If (Bool:C1537(OK))
 	// Excel file folder memorization to open the saving selector in this folder

@@ -1,10 +1,10 @@
 {
-	"First Record": "First Record",
-	"Previous Record": "Previous Record",
-	"Next Record": "Next Record",
-	"Last Record": "Last Record",
-	"Delete Record": "Delete Record",
-	"Cancel": "Cancel",
-	"OK": "Accept",
-	"Record Number": "Record Position within Selection"
+	"First Record": ":xliff:INFO_TipFirstRecord",
+	"Previous Record": ":xliff:INFO_TipPreviousRecord",
+	"Next Record": ":xliff:INFO_TipNextRecord",
+	"Last Record": ":xliff:INFO_TipLastRecord",
+	"Delete Record": ":xliff:INFO_TipDeleteRecord",
+	"Cancel": ":xliff:CommonCancel",
+	"OK": ":xliff:INFO_TipAccept",
+	"Record Number": ":xliff:INFO_TipRecordNumber"
 }

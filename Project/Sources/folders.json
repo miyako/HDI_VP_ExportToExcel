@@ -18,8 +18,7 @@
 			"00_Start",
 			"Compiler_Arrays",
 			"Compiler_Methods",
-			"Compiler_Variables",
-			"m_Quit"
+			"Compiler_Variables"
 		]
 	},
 	"Default Tables": {

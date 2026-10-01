@@ -70,7 +70,8 @@
 					"dropping": "custom",
 					"events": [
 						"onDataChange"
-					]
+					],
+					"stroke": "automatic"
 				}
 			}
 		},
@@ -98,26 +99,26 @@
 					"top": 54,
 					"left": 942,
 					"width": 166,
-					"height": 28,
-					"text": "Export xlsx file",
+					"text": ":xliff:HDI2_BtnExport",
 					"focusable": false,
 					"method": "ObjectMethods/exportxlsx.4dm",
 					"events": [
 						"onClick"
-					]
+					],
+					"class": "default"
 				},
 				"importxlsx": {
 					"type": "button",
 					"top": 54,
 					"left": 28,
 					"width": 166,
-					"height": 28,
-					"text": "Import xlsx file",
+					"text": ":xliff:HDI2_BtnImport",
 					"focusable": false,
 					"method": "ObjectMethods/importxlsx.4dm",
 					"events": [
 						"onClick"
-					]
+					],
+					"class": "default"
 				},
 				"Texte": {
 					"type": "text",
@@ -128,7 +129,8 @@
 					"textAlign": "center",
 					"fontFamily": "Segoe UI",
 					"fontSize": 24,
-					"text": "Import / export in MS Excel format"
+					"text": ":xliff:HDI2_Heading",
+					"stroke": "automatic"
 				}
 			}
 		}

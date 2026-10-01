@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+	<file datatype="plaintext" original="INFO" source-language="en" target-language="ja">
+		<body>
+			<trans-unit id="INFO_LabelPageNumber" resname="INFO_LabelPageNumber">
+				<source>Page number:</source>
+				<target>ページ番号:</target>
+			</trans-unit>
+			<trans-unit id="INFO_LabelTabTitle" resname="INFO_LabelTabTitle">
+				<source>Tab Title:</source>
+				<target>タブタイトル:</target>
+			</trans-unit>
+			<trans-unit id="INFO_HeaderPage" resname="INFO_HeaderPage">
+				<source>Page:</source>
+				<target>ページ:</target>
+			</trans-unit>
+			<trans-unit id="INFO_HeaderTitle" resname="INFO_HeaderTitle">
+				<source>Title</source>
+				<target>タイトル</target>
+			</trans-unit>
+			<trans-unit id="INFO_TipFirstRecord" resname="INFO_TipFirstRecord">
+				<source>First Record</source>
+				<target>最初のレコード</target>
+			</trans-unit>
+			<trans-unit id="INFO_TipPreviousRecord" resname="INFO_TipPreviousRecord">
+				<source>Previous Record</source>
+				<target>前のレコード</target>
+			</trans-unit>
+			<trans-unit id="INFO_TipNextRecord" resname="INFO_TipNextRecord">
+				<source>Next Record</source>
+				<target>次のレコード</target>
+			</trans-unit>
+			<trans-unit id="INFO_TipLastRecord" resname="INFO_TipLastRecord">
+				<source>Last Record</source>
+				<target>最後のレコード</target>
+			</trans-unit>
+			<trans-unit id="INFO_TipDeleteRecord" resname="INFO_TipDeleteRecord">
+				<source>Delete Record</source>
+				<target>レコードを削除</target>
+			</trans-unit>
+			<trans-unit id="INFO_TipAccept" resname="INFO_TipAccept">
+				<source>Accept</source>
+				<target>受け入れ</target>
+			</trans-unit>
+			<trans-unit id="INFO_TipRecordNumber" resname="INFO_TipRecordNumber">
+				<source>Record Position within Selection</source>
+				<target>選択内のレコード位置</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

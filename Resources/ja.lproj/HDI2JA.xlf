@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+	<file datatype="plaintext" original="HDI2" source-language="en" target-language="ja">
+		<body>
+			<trans-unit id="HDI2_BtnExport" resname="HDI2_BtnExport">
+				<source>Export xlsx file</source>
+				<target>xlsxファイルを書き出す</target>
+			</trans-unit>
+			<trans-unit id="HDI2_BtnImport" resname="HDI2_BtnImport">
+				<source>Import xlsx file</source>
+				<target>xlsxファイルを読み込む</target>
+			</trans-unit>
+			<trans-unit id="HDI2_Heading" resname="HDI2_Heading">
+				<source>Import / export in MS Excel format</source>
+				<target>MS Excel形式のインポート/エクスポート</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

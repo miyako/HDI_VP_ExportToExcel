@@ -1,15 +1,15 @@
 //%attributes = {"invisible":true}
-C_TEXT:C284(FilePathDB)
-C_TEXT:C284(FilePathMethod)
-C_OBJECT:C1216(GetLicenceInfo)
-C_OBJECT:C1216(GetSystemInfo)
-C_COLLECTION:C1488(Infos)
-C_TEXT:C284(LicenceLabel)
-C_TEXT:C284(OSLabel)
-C_TEXT:C284(OS_Label)
-C_TEXT:C284(ParamLabel)
-C_TEXT:C284(Param_label)
-C_COLLECTION:C1488(ShoppingCart)
-C_TEXT:C284(SysLabel)
-C_TEXT:C284(Sys_label)
-C_OBJECT:C1216(VirtualStructure)
+var FilePathDB : Text
+var FilePathMethod : Text
+var GetLicenceInfo : Object
+var GetSystemInfo : Object
+var Infos : Collection
+var LicenceLabel : Text
+var OSLabel : Text
+var OS_Label : Text
+var ParamLabel : Text
+var Param_label : Text
+var ShoppingCart : Collection
+var SysLabel : Text
+var Sys_label : Text
+var VirtualStructure : Object

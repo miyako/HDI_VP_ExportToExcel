@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+	<file datatype="plaintext" original="INFO" source-language="en" target-language="en">
+		<body>
+			<trans-unit id="INFO_LabelPageNumber" resname="INFO_LabelPageNumber">
+				<source>Page number:</source>
+				<target>Page number:</target>
+			</trans-unit>
+			<trans-unit id="INFO_LabelTabTitle" resname="INFO_LabelTabTitle">
+				<source>Tab Title:</source>
+				<target>Tab Title:</target>
+			</trans-unit>
+			<trans-unit id="INFO_HeaderPage" resname="INFO_HeaderPage">
+				<source>Page:</source>
+				<target>Page:</target>
+			</trans-unit>
+			<trans-unit id="INFO_HeaderTitle" resname="INFO_HeaderTitle">
+				<source>Title</source>
+				<target>Title</target>
+			</trans-unit>
+			<trans-unit id="INFO_TipFirstRecord" resname="INFO_TipFirstRecord">
+				<source>First Record</source>
+				<target>First Record</target>
+			</trans-unit>
+			<trans-unit id="INFO_TipPreviousRecord" resname="INFO_TipPreviousRecord">
+				<source>Previous Record</source>
+				<target>Previous Record</target>
+			</trans-unit>
+			<trans-unit id="INFO_TipNextRecord" resname="INFO_TipNextRecord">
+				<source>Next Record</source>
+				<target>Next Record</target>
+			</trans-unit>
+			<trans-unit id="INFO_TipLastRecord" resname="INFO_TipLastRecord">
+				<source>Last Record</source>
+				<target>Last Record</target>
+			</trans-unit>
+			<trans-unit id="INFO_TipDeleteRecord" resname="INFO_TipDeleteRecord">
+				<source>Delete Record</source>
+				<target>Delete Record</target>
+			</trans-unit>
+			<trans-unit id="INFO_TipAccept" resname="INFO_TipAccept">
+				<source>Accept</source>
+				<target>Accept</target>
+			</trans-unit>
+			<trans-unit id="INFO_TipRecordNumber" resname="INFO_TipRecordNumber">
+				<source>Record Position within Selection</source>
+				<target>Record Position within Selection</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
