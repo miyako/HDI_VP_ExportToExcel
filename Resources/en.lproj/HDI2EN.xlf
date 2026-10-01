@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+	<file datatype="plaintext" original="HDI2" source-language="en" target-language="en">
+		<body>
+			<trans-unit id="HDI2_BtnExport" resname="HDI2_BtnExport">
+				<source>Export xlsx file</source>
+				<target>Export xlsx file</target>
+			</trans-unit>
+			<trans-unit id="HDI2_BtnImport" resname="HDI2_BtnImport">
+				<source>Import xlsx file</source>
+				<target>Import xlsx file</target>
+			</trans-unit>
+			<trans-unit id="HDI2_Heading" resname="HDI2_Heading">
+				<source>Import / export in MS Excel format</source>
+				<target>Import / export in MS Excel format</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
